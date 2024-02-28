@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d171c27.css",
+    "main.js": "/static/js/main.5a5caedc.js",
+    "static/media/PBAbiznes.jpg": "/static/media/PBAbiznes.918cc61fe13d923cd72e.jpg",
+    "static/media/sekuit.jpg": "/static/media/sekuit.cb1f82751cfa3e7cfda8.jpg",
+    "static/media/mn-solution.png": "/static/media/mn-solution.8876244ebeb0579678eb.png",
+    "static/media/logo2.png": "/static/media/logo2.88512ab72f8292edd351.png",
+    "static/media/man.png": "/static/media/man.22b24eb958c5cfb60b54.png",
+    "static/media/logo3.png": "/static/media/logo3.cc86703441ef14b29d30.png",
+    "static/media/nokia.png": "/static/media/nokia.ecb991ba97b85ee3a724.png",
+    "static/media/fabit.png": "/static/media/fabit.8d7b002a0f73451e54ea.png",
+    "static/media/mn-soft.png": "/static/media/mn-soft.8998565537bfd7be6d71.png",
+    "static/media/gs.png": "/static/media/gs.522bb25972f7873ee2f9.png",
+    "static/media/seceon.png": "/static/media/seceon.99d615f84af496f863a9.png",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.6d171c27.css.map": "/static/css/main.6d171c27.css.map",
+    "main.5a5caedc.js.map": "/static/js/main.5a5caedc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d171c27.css",
+    "static/js/main.5a5caedc.js"
+  ]
+}
